@@ -1,0 +1,17 @@
+body {
+    background-color:#BBDED6;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+hr {
+    background-color: #BBDED6;
+    border-color: silver;
+    border-style: dotted none none;
+    border-width: 10px;
+    width:9%;
+     }
+
+h1, h2, h3 {color: darkcyan;
+    font-family: sans-serif;
+}
